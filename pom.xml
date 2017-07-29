@@ -11,6 +11,7 @@
     <modules>
         <module>AEurekaServer</module>
         <module>AProvider</module>
+        <module>AConsumer</module>
     </modules>
 
     <parent>
