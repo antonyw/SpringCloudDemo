@@ -12,6 +12,7 @@
         <module>AEurekaServer</module>
         <module>AProvider</module>
         <module>AConsumer</module>
+        <module>ATurbine</module>
     </modules>
 
     <parent>

@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: turbine-a
+server:
+  port: 9001
+turbine:
+  app-config: provider-a
+  cluster-name-expression:
